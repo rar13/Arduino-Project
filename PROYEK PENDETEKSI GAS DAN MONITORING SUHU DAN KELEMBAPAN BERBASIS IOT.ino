@@ -11,7 +11,7 @@ LiquidCrystal_I2C lcd(0x27,2,1,0,4,5,6,7);
 #define DEVICE_CREDENTIAL "wS9dTwmowZmV"
  
 #define SSID "Red" //Hotspot yang kita pakai
-#define SSID_PASSWORD "13011997"
+#define SSID_PASSWORD "12345678910"
  
 #define DHTPIN D6 //Pin data dari DHT terhubung ke pin D7 NodeMCU
 #define DHTTYPE DHT22
