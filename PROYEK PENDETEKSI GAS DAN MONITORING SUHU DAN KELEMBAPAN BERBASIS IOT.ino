@@ -72,7 +72,7 @@ void loop() {
   lcd.print("===== BAIK =====");
   
  }
-   if (data == LOW)
+  else if (data == LOW)
  {
  
  
